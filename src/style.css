@@ -172,3 +172,13 @@
   position: relative;
   border-radius: 5px;
 }
+
+.container-section-categories {
+  display: none;
+}
+
+.banner-secondary img {
+  width: 100%;
+  padding: 0 25px;
+  margin-bottom: 30px;
+}
