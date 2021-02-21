@@ -167,11 +167,8 @@
 }
 
 .banner__img {
+  width: 100%;
   padding: 0 15px 15px;
   position: relative;
-}
-
-.banner__img img {
-  width: 100%;
   border-radius: 5px;
 }
