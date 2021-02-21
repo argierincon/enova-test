@@ -32,10 +32,6 @@
   line-height: 44px;
 }
 
-.banner__img:nth-child(2) {
-  margin: 50px 0;
-}
-
 .banner__img:nth-child(4) {
   transform: translateY(-115px);
 }
