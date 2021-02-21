@@ -206,9 +206,11 @@
 
 .banner-secondary__img {
   width: 48%;
+  max-height: 400px;
 }
 
 .banner-secondari__img--horizontal {
   width: 100%;
+  max-height: 320px;
   margin-top: 30px;
 }
