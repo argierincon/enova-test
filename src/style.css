@@ -177,8 +177,9 @@
   display: none;
 }
 
-.banner-secondary img {
+.banner-secondary__img, .banner-secondari__img--horizontal {
   width: 100%;
   padding: 0 25px;
   margin-bottom: 30px;
 }
+

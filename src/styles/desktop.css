@@ -188,3 +188,27 @@
   font-family: var(--emphasis-font);
   cursor: pointer;
 }
+
+.banner-secondary {
+  max-width: 1260px;
+  padding: 0 25px;
+  margin: 60px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.banner-secondary__img,
+.banner-secondari__img--horizontal {
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.banner-secondary__img {
+  width: 48%;
+}
+
+.banner-secondari__img--horizontal {
+  width: 100%;
+  margin-top: 30px;
+}
