@@ -1,0 +1,49 @@
+.carousel {
+  padding: 0 40px;
+}
+
+.carousel__title {
+  font-size: 28px;
+}
+
+.carousel__container {
+  max-width: 1260px;
+  margin: auto;
+}
+
+.carousel-item {
+  min-width: 18.36%;
+  margin: 0 1%;
+}
+
+.carousel-item__details p {
+  font-size: 13px;
+}
+
+.banner {
+  max-width: 1260px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.banner__tiltle {
+  transform: translateY(80px);
+  line-height: 44px;
+}
+
+.banner__img:nth-child(2) {
+  margin: 50px 0;
+}
+
+.banner__img:nth-child(4) {
+  transform: translateY(-115px);
+}
+
+.banner__img:nth-child(5) {
+  transform: translateY(-35px);
+}
+
+.banner__img:nth-child(6) {
+  transform: translateY(10px);
+}

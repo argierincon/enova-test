@@ -1,0 +1,12 @@
+.carousel__title {
+  font-size: 28px;
+}
+
+.carousel-item {
+  min-width: 32%;
+  margin: 0 1%;
+}
+
+.carousel-item__details p {
+  font-size: 13px;
+}
